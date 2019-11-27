@@ -6,7 +6,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "request": "^2.99.99"
+    "request": "^2.88.0"
   },
   "devDependencies": {},
   "scripts": {
